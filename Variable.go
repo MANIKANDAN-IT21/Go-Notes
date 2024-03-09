@@ -17,13 +17,17 @@
 // --------------------------------variablename:=value-----------------------------------------
 // number:=78
 // name:="manikanda"
+// --------------------------------Mulit-line declation-----------------------------------------
+// var a,b,c,d int =1,2,3,4
 package main
 import "fmt"
 func main(){
-	//  num:=10.2
+	var a,b,c,d int =1,2,3,4
 	 
-	// fmt.Printf("%f", num)
+	fmt.Println(a)
+	fmt.Println(b)
+	fmt.Println(c)
+	fmt.Println(d)
 	
-	var Name int
-	fmt.Println(Name)
+
 }

@@ -1,0 +1,16 @@
+var a string="mani"
+var b string="kandan"
+
+
+-->print()-python,java
+*print =ing the argumentin default formate
+Eg[print(a) //mani
+   print(b)] //kandan
+
+-->Println()-java 
+*it added the white space betweet other argument
+Eg[Println(a,b)// mani kandan]
+
+-->printf()-C
+*it use to play argument in some sentence %V is value(mani); %T is type(17)
+Eg[printf("%V maths mark is %T")// mani maths mark is 17]

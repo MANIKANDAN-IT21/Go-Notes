@@ -1,6 +1,6 @@
-package main
+package main//decaltion of package 
 
-import "fmt"
- func main(){
-	fmt.Printf("manikandan")
+import "fmt"//import the package
+ func main(){ //function
+	fmt.Printf("manikandan") //statemetn & Expression
  }
