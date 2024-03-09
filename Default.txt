@@ -1,0 +1,10 @@
+Default value 
+Eg..
+var Name string
+fmt.println(Name)// Default is "" nothing will be printed(Println only work)
+
+var number int 
+fmt.println(Number)// Default is 0(Println only work)
+
+var Choose Bool
+fmt.println(Choose)// Default is flase(Println only work)

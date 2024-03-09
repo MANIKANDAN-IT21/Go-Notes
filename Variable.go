@@ -20,8 +20,10 @@
 package main
 import "fmt"
 func main(){
-	 num:=10.2
-	 mani:=true
-	fmt.Printf("%f", num)
-	fmt.Printf(mani)
+	//  num:=10.2
+	 
+	// fmt.Printf("%f", num)
+	
+	var Name int
+	fmt.Println(Name)
 }
