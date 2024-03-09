@@ -6,3 +6,9 @@ it is fast and static type
 server-side
 it is similar to C++
 it is mixture of (pythoon,c++,C,Java)
+---------------------***-------------------------
+-->Syntax
+1.decalar the package
+2.import the package
+3.function
+4.statemetn & Expression.
