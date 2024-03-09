@@ -1,4 +1,3 @@
-
 Eg..
 var Name string
 fmt.println(Name)// Default is "" nothing will be printed(Println only work)
