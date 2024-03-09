@@ -1,0 +1,8 @@
+Go is the CrossPlatform/open-soures.
+Created By Google (Robet.rob.kin)-2007
+Go is the Interperted language
+Go is support Concurrency
+it is fast and static type
+server-side
+it is similar to C++
+it is mixture of (pythoon,c++,C,Java)
